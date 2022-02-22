@@ -1,0 +1,44 @@
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf) format('truetype');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-Medium.ttf) format('truetype');
+    font-weight: 500;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/montserrat/Montserrat-Bold.ttf) format('truetype');
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: 'Nunito';
+    src: url(../fonts/nunito/Nunito-Bold.ttf) format('truetype');
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: 'Poppins';
+    src: url(../fonts/poppins/Poppins-Medium.ttf) format('truetype');
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: 'Raleway';
+    src: url(../fonts/raleway/Raleway-Medium.ttf) format('truetype');
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: 'Work Sans';
+    src: url(../fonts/work_sans/WorkSans-Regular.ttf) format('truetype');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Work Sans';
+    src: url(../fonts/work_sans/WorkSans-Medium.ttf) format('truetype');
+    font-weight: 500;
+}
